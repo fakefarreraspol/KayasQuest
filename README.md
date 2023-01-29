@@ -38,6 +38,13 @@ The game contains a big map with different biomes and scenarios: <br />
   - Aticus: Habitant of Clodia city, needs help after a battle. <br />
 ![Aticus](https://github.com/fakefarreraspol/TheScytheBehindTheDoor/blob/main/docs/images/characters/Mike.png)
 
-  - Soldor: Antagonist of the story.
+  - Soldor: Antagonist of the story. <br />
 ![Soldor](https://github.com/fakefarreraspol/TheScytheBehindTheDoor/blob/main/docs/images/characters/Soldor.png)
+
+
+# Controls
+Arrows => Move horizontally and vertically <br />
+Shift => Move much quicker <br />
+Enter => Action Button <br />
+
 
