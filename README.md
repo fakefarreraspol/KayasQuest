@@ -27,5 +27,13 @@ The game contains a big map with different biomes and scenarios: <br />
     <img src="https://github.com/fakefarreraspol/TheScytheBehindTheDoor/blob/main/docs/images/Captura%20de%20pantalla%202023-01-29%20230558.png"> <br />
 </p>
 
-  
+### Characters
+![Kaya](https://github.com/fakefarreraspol/TheScytheBehindTheDoor/blob/main/docs/images/characters/Kaya.png)
+  - Kaya: The main character, a young girl who has to travel to the unknown to find the one who killed her dad. <br />
+![Kaya](https://github.com/fakefarreraspol/TheScytheBehindTheDoor/blob/main/docs/images/characters/KayaMom.png)
+  - Kaya Mom: Mother of the MC. <br />
+![Aticus](https://github.com/fakefarreraspol/TheScytheBehindTheDoor/blob/main/docs/images/characters/Mike.png)
+  - Aticus: Habitant of Clodia city, needs help after a battle. <br />
+![Soldor](https://github.com/fakefarreraspol/TheScytheBehindTheDoor/blob/main/docs/images/characters/Soldor.png)
+  - Soldor: Antagonist of the story.
 
