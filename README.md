@@ -1,5 +1,5 @@
-# The Scythe Behind The Door
-The Scythe Behind the door is a RPG game created for a Game Design class project. 
+# Kaya's Quest
+Kaya's Quest is a RPG game created for a Game Design class project. 
 The project is made with RPG Maker Vx Ace and it was meant to last between 10-15 minutes. 
 
 ## Instalation Guide
